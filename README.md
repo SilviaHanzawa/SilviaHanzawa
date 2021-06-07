@@ -15,8 +15,8 @@
 </p>
 
 ##
-
-[![Linkedin Badge](https://img.shields.io/badge/SilviaHanzawa-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/silvia-hanzawa-6100a590/)](https://www.linkedin.com/in/silvia-hanzawa-6100a590/)
+[![Linkedin Badge](https://img.shields.io/badge/SilviaHanzawa-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/silvia-hanzawa-6100a590/)](https://www.linkedin.com/in/silvia-hanzawa-6100a590/) 
+ 
 
 <!-- in your body -->
 
