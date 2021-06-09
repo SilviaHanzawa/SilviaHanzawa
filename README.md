@@ -1,10 +1,11 @@
 ### Olá! Eu sou Silvia Hanzawa 🌸
 
 
+<a href="https://github.com/SilviaHanzawa">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviahanzawa&show_icons=true&theme=tokyonight" style="max-width:100%">
+ <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=silviahanzawa&langs_count=8&theme=tokyonight" style="max-width:100%">
+ </a>
 
-
-![SilviaHanzawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviahanzawa&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviahanzawa&layout=compact&theme=tokyonight)](https://github.com/silviahanzawa/github-readme-stats)
 
 
 
