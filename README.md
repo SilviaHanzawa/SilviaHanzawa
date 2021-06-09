@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/SilviaHanzawa-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/silvia-hanzawa-6100a590/)](https://www.linkedin.com/in/silvia-hanzawa-6100a590/) 
  
  
- ![Snake animation]( )
+ ![Snake animation](https://github.com/SilviaHanzawa/SilviaHanzawa/blob/decce8782dabe7ac1bf4883d2e54d47a65d690d4/.github/workflows/main.yml )
 
 
 <!-- in your body -->
