@@ -17,6 +17,8 @@
 
 ##
 [![Linkedin Badge](https://img.shields.io/badge/SilviaHanzawa-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/silvia-hanzawa-6100a590/)](https://www.linkedin.com/in/silvia-hanzawa-6100a590/) 
+<img align="right" src="https://media.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif" widht="120" height="150">
+
  
 ![Snake animation](https://github.com/SilviaHanzawa/SilviaHanzawa/blob/output/github-contribution-grid-snake.svg)
 
