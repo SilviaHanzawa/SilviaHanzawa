@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" >
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40" height="40">
-<img src="https://raw.githubusercontent.com/google/vscode-bigquery/master/bigquery-icon.png" width="40" height="40">
+<img src="https://raw.githubusercontent.com/google/vscode-bigquery/master/bigquery-icon.png" width="42" height="42">
 
 <img align="right" src="https://media.giphy.com/media/wCDW0yf9gf77c9vIVZ/giphy.gif" widht="120" height="150">
 </p>
